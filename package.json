@@ -1,0 +1,26 @@
+{
+  "name": "launchbase-modulo1-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolianaRufatto/launchbase-modulo1-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolianaRufatto/launchbase-modulo1-backend/issues"
+  },
+  "homepage": "https://github.com/PolianaRufatto/launchbase-modulo1-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
