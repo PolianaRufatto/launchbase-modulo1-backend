@@ -3,7 +3,8 @@ module.exports = [
         id: "GykTLqODQuU",
         title: "Formulário Animado com JS puro e CSS Animation",
         duration: "57 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "2alg7MQ6_sI",
@@ -27,12 +28,14 @@ module.exports = [
         id: "GSqR2i-Pq6o",
         title: "Desvendando a variável this no Javascript",
         duration: "48 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     },
     {
         id: "rAzHvYnQ8DY",
         title: "Array: Higher Order Functions",
         duration: "54 min",
-        price: "Free"
+        price: "Free",
+        featured: true
     }
 ]
